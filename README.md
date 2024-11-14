@@ -59,3 +59,7 @@ TBA
 
 ## Pembagian IP:
 ![image](https://github.com/user-attachments/assets/da3b5c6c-26ea-4f54-a8dc-e3c78b3f5936)
+
+## Testing:
+https://github.com/user-attachments/assets/35ffccdc-b4f6-41ca-9a16-482f10fcac8d
+
