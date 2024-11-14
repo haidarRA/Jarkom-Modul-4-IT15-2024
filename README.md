@@ -6,40 +6,56 @@
 | M. Abhinaya Al Faruqi | 5027231011  |  
 | Haidar Rafi Aqyla | 5027231029   |
 
+## Routing:
+![image](https://github.com/user-attachments/assets/50227271-ea00-4689-abc9-763b05d595bc)
+
+## Topologi jaringan di Cisco Packet Tracer:
+![step 1](https://github.com/user-attachments/assets/0f2e60db-f887-4ece-bbc3-da0ad55e6872)
+
 # VLSM (GNS3)
 TBA
 
 # CIDR (CPT)
-## Topologi jaringan di Cisco Packet Tracer:
-![step 1](https://github.com/user-attachments/assets/1db54145-829e-446c-8dfc-58af27643c52)
-
 ## Pembagian 1 (A):
-![step 2](https://github.com/user-attachments/assets/fb778263-7b7f-402c-9794-06b448e533fe)
+![step 2](https://github.com/user-attachments/assets/fe73fddd-f169-4e4d-b405-d90f4a126a78)
 
 ## Pembagian 2 (B):
-![step 3](https://github.com/user-attachments/assets/8685695b-0ae3-44c1-9e8f-48a60983b7d2)
+![image](https://github.com/user-attachments/assets/7655819b-d9c6-4f6c-a633-c5b0208746f0)
+![step 3](https://github.com/user-attachments/assets/aa61ec52-e6bd-424b-bfcd-09dd7aac8284)
 
 ## Pembagian 3 (C):
-![step 4](https://github.com/user-attachments/assets/8d34fa12-9951-440a-8c2b-beefca7cab6e)
+![image](https://github.com/user-attachments/assets/d200cc08-ace6-4766-98d3-d4c9c64ad7fb)
+![step 4](https://github.com/user-attachments/assets/27ac4a89-df14-44bf-a6d1-3d9957309439)
 
 ## Pembagian 4 (D):
-![step 5](https://github.com/user-attachments/assets/57fcd835-4805-4aa8-b0e4-1205a4960cb3)
+![image](https://github.com/user-attachments/assets/d312e67d-be18-4a03-985d-02090a009395)
+![step 5](https://github.com/user-attachments/assets/4776a293-055f-4f38-a770-5b91d7448886)
 
 ## Pembagian 5 (E):
-![step 6](https://github.com/user-attachments/assets/c631585c-3468-48e9-8790-ccb46e507b20)
+![image](https://github.com/user-attachments/assets/2af92e6a-c89d-484b-8ef5-f7968279e120)
+![step 6](https://github.com/user-attachments/assets/f43feff4-ec6b-408c-a7f5-b42647ade12f)
 
 ## Pembagian 6 (F):
-![step 7](https://github.com/user-attachments/assets/aabc1b86-63ca-4ac4-92fc-d29c39cbda9e)
+![image](https://github.com/user-attachments/assets/1b034781-1301-491d-82a7-a821e11e5078)
+![step 7](https://github.com/user-attachments/assets/fb8f3c62-e6bb-404c-b4be-27f6fa37f6d7)
 
 ## Pembagian 7 (G):
-![step 8](https://github.com/user-attachments/assets/e20db417-7acd-484a-b903-a39c5affc2ea)
+![image](https://github.com/user-attachments/assets/88a698ec-438e-4bb3-abea-5c23460f1499)
+![step 8](https://github.com/user-attachments/assets/da7701f9-8d4c-4d66-be2c-172c31c7fcfa)
 
 ## Pembagian 8 (H):
-![step 9](https://github.com/user-attachments/assets/b5471a6a-61dc-440e-a17f-a76ba299550c)
+![image](https://github.com/user-attachments/assets/c213dd5b-0006-4a7c-8fdc-eb38e7c9acab)
+![step 9](https://github.com/user-attachments/assets/955db6fd-f03a-404a-9c41-f68f08c9d5a3)
 
 ## Pembagian 9 (I):
-![step 10](https://github.com/user-attachments/assets/2ae16c6c-2464-44cb-938c-8b78c1b0cb17)
+![image](https://github.com/user-attachments/assets/f46f719a-55cd-43c8-9fa3-4e139268674a)
+![step 10](https://github.com/user-attachments/assets/4ce3ebc3-0352-4849-9fe6-e040e18b9086)
 
 ## Hasil Akhir:
-![done cidr](https://github.com/user-attachments/assets/6262ba8d-21a6-4185-9181-fda0f0f3fa40)
+![cidr done](https://github.com/user-attachments/assets/51823922-e5e1-4f86-9a87-0ab6bf4ce858)
 
+## CIDR Tree:
+![CIDR tree img](https://github.com/user-attachments/assets/ca700404-c119-481b-b688-0ee5624da300)
+
+## Pembagian IP:
+![image](https://github.com/user-attachments/assets/da3b5c6c-26ea-4f54-a8dc-e3c78b3f5936)
