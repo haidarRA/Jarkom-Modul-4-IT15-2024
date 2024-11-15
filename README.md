@@ -7,7 +7,7 @@
 | Haidar Rafi Aqyla | 5027231029   |
 
 ## Routing:
-![image](https://github.com/user-attachments/assets/50227271-ea00-4689-abc9-763b05d595bc)
+![image](https://github.com/user-attachments/assets/9000ec51-7417-45af-8499-1037e2a4ee5f)
 
 ## Topologi jaringan di Cisco Packet Tracer:
 ![step 1](https://github.com/user-attachments/assets/0f2e60db-f887-4ece-bbc3-da0ad55e6872)
@@ -55,7 +55,7 @@ TBA
 ![cidr done](https://github.com/user-attachments/assets/51823922-e5e1-4f86-9a87-0ab6bf4ce858)
 
 ## CIDR Tree:
-![CIDR tree img](https://github.com/user-attachments/assets/ca700404-c119-481b-b688-0ee5624da300)
+![CIDR tree revisi](https://github.com/user-attachments/assets/acc94284-1025-406b-b578-602d6fc8813a)
 
 ## Pembagian IP:
 ![image](https://github.com/user-attachments/assets/da3b5c6c-26ea-4f54-a8dc-e3c78b3f5936)
