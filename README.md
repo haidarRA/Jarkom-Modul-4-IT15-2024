@@ -9,6 +9,9 @@
 ## Routing:
 ![image](https://github.com/user-attachments/assets/9000ec51-7417-45af-8499-1037e2a4ee5f)
 
+## Topologi jaringan di GNS3:
+![image](https://github.com/user-attachments/assets/effe40b7-61c6-428b-b065-de4d390690b6)
+
 ## Topologi jaringan di Cisco Packet Tracer:
 ![step 1](https://github.com/user-attachments/assets/0f2e60db-f887-4ece-bbc3-da0ad55e6872)
 
